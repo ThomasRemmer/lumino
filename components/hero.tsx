@@ -8,7 +8,7 @@ export default function Hero() {
         playsInline
         className="w-full h-120 object-cover hidden lg:block "
       >
-        <source src="\videos\hero-background-desktop.mp4" type="video/mp4" />
+        <source src="\videos\Hero-Desktop.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <video
@@ -18,7 +18,7 @@ export default function Hero() {
         playsInline
         className="w-full h-96 object-cover lg:hidden "
       >
-        <source src="\videos\hero-background.mp4" type="video/mp4" />
+        <source src="\videos\Hero-Mobile.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
